@@ -1,0 +1,6 @@
+{
+  "name": "AegisOrbit: Space Debris Collision Predictor",
+  "description": "Real-time 3D orbital tracking, space debris collision risk prediction, conjunction countdowns, what-if burn simulators, explainable AI diagnostics, and interactive satellite defense mission control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
